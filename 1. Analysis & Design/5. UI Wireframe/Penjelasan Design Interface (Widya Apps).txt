@@ -1,0 +1,37 @@
+WIDYA TRAVEL
+
+1. Splash Screen
+
+Tampilan antarmuka splash screen merupakan antarmuka yang muncul pertama kali saat aplikasi dibuka.
+
+2. Login
+
+Pada antarmuka login, customer memasukkan email dan password yang telah terdaftar. Dan disediakan juga tombol untuk pergi ke halaman fitur lupa password kalau - kalau customer lupa dengan password dari akun milik customer. Kemudian untuk customer yang belum terdaftar, akan ada tombol "DAFTAR" di bagian bawah.
+
+3. Daftar
+
+Pada antarmuka pendaftaran, customer memasukkan data diri berupa nama lengkap, email, no hp, alamat, dan password. Kemudian jika customer telah memiliki akun, terdapat tombol login di bagian bawah
+
+4. Lupa Password
+
+Pada antarmuka lupa password, customer perlu memasukkan email untuk dikirimkan pesan informasi tentang password dari akun customer ke email yang dimasukkan. Terdapat juga tombol kembali ke halaman login.
+
+5. Home
+
+Pada halaman home atau dashboard, peserta disediakan dua pilihan dari dua jasa yang ditawarkan oleh Widya Travel, yaitu Car Rent (Penyewaan mobil travel), dan juga Individual Trip (Mem-booking tiket travel). yang masing - masing layanan jika di-click akan menuju ke halaman layanan masing - masing. Dibawahnya juga disediakan info - info dan fitur - fitur yang mungkin bermanfaat bagi customer.
+
+6. Order
+
+Antarmuka order menampilkan semua daftar order, baik yang baru dipesan, sedang diproses, maupun yang telah selesai dengan fitur tab untuk pindah ke jenis order yang berbeda.
+
+7. Profile
+
+Pada antarmuka profile disediakan foto profile, nama, email, dan no handphone dari customer. Serta disediakan tombol untuk pergi ke halaman edit profile. Kemudian di bagian menu bawah terdapat tombol - tombol untuk pergi ke halaman pengaturan, bantuan, syarat dan ketentuan, dan tentang kami (tim pengembang).
+
+8. Rent a Car
+
+Setelah memilih jasa pada halaman home, contohnya kita memilih jasa Rent a Car. Pada halaman Rent a Car, kita tinggal mengisi data - data yang dibutuhkan untuk meminjam sebuah mobil travel + sopirnya (otomatis) seperti tanggal peminjaman, waktu (jam) peminjaman, lama peminjaman (dalam bentuk hari), serta lokasi penjemputan. Selanjutnya tinggal klik "pesan" maka jasa akan segera diproses. (Jika layanan yang diminta tersedia, maka ditampilkan pesan tidak tersedia).
+
+9. Individual Trip
+
+Jika kita memilih jasa Individual Trip pada halaman home, maka kita akan diarahkan ke halaman individual trip ini. Hampir sama seperti halaman rent a car, kita tinggal mengisi data - data yang dibutuhkan untuk mem-booking tiket travel seperti kota penjemputan, lokasi penjemputan (maps), kota tujuan, tanggal penjemputan, waktu (jam) penjemputan, serta jumlah orang yang akan mendapat tiket dari yang kita booking. Selanjutnya tinggal klik "pesan" maka jasa akan segera diproses. (Jika layanan yang diminta tersedia, maka ditampilkan pesan tidak tersedia).

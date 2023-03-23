@@ -1,0 +1,15 @@
+Admin (id_admin, nama_admin, email, password)
+
+Customer (id_costumer, nama_customer, no_hp, email, password, alamat, foto_profil)
+
+Driver (id_driver, nama_driver, no_hp, email, password, foto_profil, id_mobil)
+
+Mobil (id_mobil, plat_no, id_driver, kapasitas (10), tersedia, rute, waktu_berangkat, dari_semarang)
+
+Transaksi Individu (kode_transaksi, id_driver, id_customer, kota_penjemputan, lokasi_penjemputan, kota_tujuan, tanggal_penjemputan, waktu_penjemputan, harga, jumlah_orang, status_transaksi)
+
+Transaksi Rental (kode_transaksi, id_driver, id_customer, lokasi_penjemputan, tanggal_peminjaman, waktu_peminjaman, lama_peminjaman(hari), harga)
+
+Kota (id_kota, nama_kota)
+
+Rute (id_rute, nama_rute, kota_awal, kota_akhir)

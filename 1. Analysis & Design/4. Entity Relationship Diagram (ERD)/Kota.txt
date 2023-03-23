@@ -1,0 +1,25 @@
+Banyumas
+Batang
+Boyolali
+Brebes
+Cilacap
+Demak
+Kebumen
+Kendal
+Kudus
+Magelang
+Pati
+Pekalongan
+Pemalang
+Purbalingga
+Purworejo
+Rembang
+Salatiga
+Semarang
+Surakarta
+Tegal
+Temanggung
+Wonosobo
+Yogyakarta
+
+INSERT INTO kota VALUES (4, "Brebes"), (5, "Cilacap"), (6, "Demak"), (7, "Kebumen"), (8, "Kendal"), (9, "Kudus"), (10, "Magelang"), (11, "Pati"), (12, "Pekalongan"), (13, "Pemalang"), (14, "Purbalingga"), (15, "Purworejo"), (16, "Rembang"), (17, "Salatiga"), (18, "Semarang"), (19, "Surakarta"), (20, "Tegal"), (21, "Temanggung"), (22, "Wonosobo"), (23, "Yogyakarta")
