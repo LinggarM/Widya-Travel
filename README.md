@@ -87,7 +87,7 @@ This project consist of 3 applications:
 
 ## Contributors
 - [Linggar Maretva Cendani](https://github.com/LinggarM)
-- [Selvi Fitria Khoerunnisa](https://github.com/selvifitria)
+- Selvi Fitria Khoerunnisa
 - Muhammad Rizky Ardhani
 - Muhammad Zulpa Ladun Hakim
 
